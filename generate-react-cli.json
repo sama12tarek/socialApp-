@@ -1,0 +1,23 @@
+{
+  "usesTypeScript": false,
+  "usesStyledComponents": false,
+  "useCssModule": true,
+  "cssPreProcessor": "css",
+  "testLibrary": "None",
+  "component": {
+  
+    "default": {
+      "customTemplates": {
+        "component": "./Power/PowerName.jsx"
+        
+      },
+      "path": "src/Components",
+      "withStyle": true,
+      "withTest": false,
+      "withStory": false,
+      "withLazy": false
+    }
+  },
+  "usesCssModule": true,
+  "cssPreprocessor": "css"
+}
