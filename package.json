@@ -7,13 +7,9 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-<<<<<<< HEAD
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
-=======
-    "preview": "vite preview"
->>>>>>> c0619243f359fe59e5ca03d97f4df7665b1caf01
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^7.0.0",
@@ -42,10 +38,7 @@
     "eslint": "^9.30.1",
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.20",
-<<<<<<< HEAD
     "gh-pages": "^6.3.0",
-=======
->>>>>>> c0619243f359fe59e5ca03d97f4df7665b1caf01
     "globals": "^16.3.0",
     "postcss": "^8.5.6",
     "tailwindcss": "^4.1.12",
