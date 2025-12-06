@@ -9,8 +9,5 @@ export default defineConfig({
   plugins: [react(), tailwindcss()],
   base: "/socialApp-/",
 });
-=======
-  plugins: [react(),tailwindcss()],
-})
->>>>>>> c0619243f359fe59e5ca03d97f4df7665b1caf01
+
 
